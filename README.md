@@ -1,5 +1,3 @@
----
-
 # User Manual for Log Analysis Flask Application  
 
 **Industrial Project - Katarzyna Góźdź, Jan Michalak, Wiktor Zborowski**  
