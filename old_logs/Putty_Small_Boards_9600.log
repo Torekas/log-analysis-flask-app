@@ -1,0 +1,2228 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.12.04 14:49:09 =~=~=~=~=~=~=~=~=~=~=~=
+SESSION_INFO_NTF: {session_handle=1, sequence_number=192, block_index=192, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=193, block_index=193, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=194, block_index=194, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=195, block_index=195, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=196, block_index=196, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=197, block_index=197, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=198, block_index=198, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=199, block_index=199, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=200, block_index=200, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=201, block_index=201, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=202, block_index=202, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=203, block_index=203, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=204, block_index=204, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=205, block_index=205, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=206, block_index=206, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=207, block_index=207, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=208, block_index=208, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=209, block_index=209, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=210, block_index=210, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=211, block_index=211, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=212, block_index=212, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=213, block_index=213, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=214, block_index=214, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=215, block_index=215, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=216, block_index=216, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=217, block_index=217, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=218, block_index=218, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=219, block_index=219, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=220, block_index=220, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=221, block_index=221, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=222, block_index=222, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=223, block_index=223, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=224, block_index=224, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=225, block_index=225, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=226, block_index=226, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=227, block_index=227, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=228, block_index=228, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=229, block_index=229, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=230, block_index=230, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=231, block_index=231, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=232, block_index=232, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=233, block_index=233, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=234, block_index=234, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=235, block_index=235, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=236, block_index=236, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=237, block_index=237, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=238, block_index=238, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=239, block_index=239, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=240, block_index=240, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=241, block_index=241, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=242, block_index=242, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=243, block_index=243, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=244, block_index=244, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=245, block_index=245, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=246, block_index=246, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=247, block_index=247, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=248, block_index=248, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=249, block_index=249, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=250, block_index=250, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=251, block_index=251, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=252, block_index=252, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=253, block_index=253, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=254, block_index=254, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=255, block_index=255, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=256, block_index=256, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=257, block_index=257, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=258, block_index=258, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=259, block_index=259, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=260, block_index=260, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=261, block_index=261, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=262, block_index=262, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=263, block_index=263, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=264, block_index=264, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=265, block_index=265, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=266, block_index=266, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=267, block_index=267, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=268, block_index=268, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=269, block_index=269, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=270, block_index=270, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=271, block_index=271, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=272, block_index=272, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=273, block_index=273, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=274, block_index=274, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=275, block_index=275, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=276, block_index=276, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=277, block_index=277, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=278, block_index=278, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=279, block_index=279, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=280, block_index=280, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=281, block_index=281, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=282, block_index=282, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=283, block_index=283, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=284, block_index=284, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=285, block_index=285, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=286, block_index=286, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=287, block_index=287, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=288, block_index=288, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=289, block_index=289, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=290, block_index=290, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=291, block_index=291, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=292, block_index=292, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=293, block_index=293, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=294, block_index=294, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=295, block_index=295, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=296, block_index=296, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=297, block_index=297, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=298, block_index=298, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=299, block_index=299, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=300, block_index=300, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=301, block_index=301, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=302, block_index=302, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=303, block_index=303, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=304, block_index=304, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=305, block_index=305, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=306, block_index=306, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=307, block_index=307, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=308, block_index=308, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=309, block_index=309, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=310, block_index=310, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=311, block_index=311, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=312, block_index=312, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=313, block_index=313, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=314, block_index=314, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=315, block_index=315, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=316, block_index=316, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=317, block_index=317, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=318, block_index=318, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=319, block_index=319, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=320, block_index=320, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=321, block_index=321, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=322, block_index=322, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=323, block_index=323, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=324, block_index=324, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=325, block_index=325, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=326, block_index=326, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=327, block_index=327, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=328, block_index=328, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=329, block_index=329, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=330, block_index=330, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=331, block_index=331, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=332, block_index=332, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=333, block_index=333, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=334, block_index=334, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=335, block_index=335, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=336, block_index=336, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=337, block_index=337, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=338, block_index=338, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=339, block_index=339, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=340, block_index=340, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=341, block_index=341, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=342, block_index=342, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=343, block_index=343, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=344, block_index=344, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=345, block_index=345, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=346, block_index=346, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=347, block_index=347, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=348, block_index=348, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=349, block_index=349, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=350, block_index=350, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=351, block_index=351, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=352, block_index=352, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=353, block_index=353, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=354, block_index=354, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=355, block_index=355, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=356, block_index=356, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=357, block_index=357, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=358, block_index=358, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=359, block_index=359, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=360, block_index=360, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=361, block_index=361, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=362, block_index=362, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=363, block_index=363, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=364, block_index=364, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=365, block_index=365, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=366, block_index=366, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=367, block_index=367, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=368, block_index=368, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=369, block_index=369, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=370, block_index=370, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=371, block_index=371, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=372, block_index=372, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=373, block_index=373, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=374, block_index=374, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=375, block_index=375, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=376, block_index=376, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=377, block_index=377, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=378, block_index=378, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=379, block_index=379, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=380, block_index=380, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=381, block_index=381, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=382, block_index=382, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=383, block_index=383, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=384, block_index=384, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=385, block_index=385, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=386, block_index=386, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=387, block_index=387, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=388, block_index=388, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=389, block_index=389, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=390, block_index=390, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=391, block_index=391, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=392, block_index=392, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=393, block_index=393, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=394, block_index=394, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=395, block_index=395, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=396, block_index=396, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=397, block_index=397, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=398, block_index=398, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=399, block_index=399, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=400, block_index=400, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=401, block_index=401, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=402, block_index=402, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=403, block_index=403, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=404, block_index=404, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=405, block_index=405, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=406, block_index=406, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=407, block_index=407, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=408, block_index=408, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=409, block_index=409, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=410, block_index=410, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=411, block_index=411, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=412, block_index=412, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=413, block_index=413, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=414, block_index=414, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=415, block_index=415, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=416, block_index=416, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=417, block_index=417, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=418, block_index=418, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=419, block_index=419, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=420, block_index=420, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=421, block_index=421, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=422, block_index=422, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=423, block_index=423, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=424, block_index=424, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=425, block_index=425, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=426, block_index=426, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=563, block_index=563, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=39]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=564, block_index=564, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=37]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=565, block_index=565, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=41]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=566, block_index=566, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=38]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=567, block_index=567, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=35]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=568, block_index=568, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=31]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=569, block_index=569, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=36]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=570, block_index=570, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=39]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=571, block_index=571, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=34]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=572, block_index=572, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=39]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=573, block_index=573, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=39]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=574, block_index=574, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=35]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=575, block_index=575, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=39]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=576, block_index=576, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=41]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=577, block_index=577, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=40]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=578, block_index=578, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=43]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=579, block_index=579, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=42]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=580, block_index=580, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=43]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=581, block_index=581, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=38]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=582, block_index=582, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=39]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=583, block_index=583, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=34]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=584, block_index=584, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=37]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=585, block_index=585, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=39]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=586, block_index=586, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=37]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=587, block_index=587, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=38]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=588, block_index=588, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=39]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=589, block_index=589, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=41]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=590, block_index=590, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=42]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=591, block_index=591, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=50]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=592, block_index=592, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=56]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=593, block_index=593, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=67]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=594, block_index=594, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=73]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=595, block_index=595, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=80]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=596, block_index=596, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=83]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=597, block_index=597, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=84]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=598, block_index=598, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=79]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=599, block_index=599, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=83]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=600, block_index=600, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=87]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=601, block_index=601, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=87]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=602, block_index=602, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=102]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=603, block_index=603, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=103]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=604, block_index=604, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=122]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=605, block_index=605, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=124]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=606, block_index=606, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=130]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=607, block_index=607, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=140]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=608, block_index=608, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=137]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=609, block_index=609, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=143]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=610, block_index=610, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=149]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=611, block_index=611, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=140]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=612, block_index=612, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=147]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=613, block_index=613, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=149]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=614, block_index=614, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=143]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=615, block_index=615, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=141]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=616, block_index=616, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=137]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=617, block_index=617, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=138]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=618, block_index=618, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=619, block_index=619, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=126]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=620, block_index=620, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=118]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=621, block_index=621, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=112]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=622, block_index=622, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=108]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=623, block_index=623, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=94]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=624, block_index=624, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=90]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=625, block_index=625, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=69]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=626, block_index=626, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=63]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=627, block_index=627, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=62]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=628, block_index=628, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=51]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=629, block_index=629, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=53]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=630, block_index=630, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=34]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=631, block_index=631, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=42]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=632, block_index=632, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=42]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=633, block_index=633, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=53]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=634, block_index=634, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=45]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=635, block_index=635, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=13]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=636, block_index=636, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=55]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=637, block_index=637, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=56]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=638, block_index=638, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=46]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=639, block_index=639, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=53]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=640, block_index=640, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=50]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=641, block_index=641, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=43]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=642, block_index=642, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=51]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=643, block_index=643, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=54]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=644, block_index=644, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=50]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=645, block_index=645, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=68]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=646, block_index=646, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=60]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=647, block_index=647, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=59]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=648, block_index=648, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=69]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=649, block_index=649, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=65]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=650, block_index=650, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=66]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=651, block_index=651, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=77]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=652, block_index=652, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=81]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=653, block_index=653, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=76]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=654, block_index=654, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=91]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=655, block_index=655, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=103]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=656, block_index=656, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=114]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=657, block_index=657, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=118]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=658, block_index=658, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=126]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=659, block_index=659, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=144]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=660, block_index=660, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=165]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=661, block_index=661, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=177]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=662, block_index=662, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=191]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=663, block_index=663, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=208]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=664, block_index=664, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=224]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=665, block_index=665, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=247]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=666, block_index=666, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=250]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=667, block_index=667, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=279]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=668, block_index=668, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=282]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=669, block_index=669, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=287]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=670, block_index=670, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=324]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=671, block_index=671, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=376]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=672, block_index=672, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=376]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=673, block_index=673, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=426]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=674, block_index=674, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=468]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=675, block_index=675, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=387]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=676, block_index=676, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=380]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=677, block_index=677, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=421]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=678, block_index=678, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=438]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=679, block_index=679, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=455]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=680, block_index=680, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=511]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=681, block_index=681, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=534]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=682, block_index=682, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=522]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=683, block_index=683, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=543]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=684, block_index=684, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=557]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=685, block_index=685, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=573]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=686, block_index=686, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=595]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=687, block_index=687, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=606]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=688, block_index=688, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=628]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=689, block_index=689, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=633]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=690, block_index=690, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=643]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=691, block_index=691, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=660]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=692, block_index=692, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=697]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=693, block_index=693, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=725]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=694, block_index=694, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=734]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=695, block_index=695, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=751]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=696, block_index=696, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=774]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=697, block_index=697, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=778]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=698, block_index=698, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=811]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=699, block_index=699, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=816]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=700, block_index=700, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=848]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=701, block_index=701, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=890]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=702, block_index=702, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=893]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=703, block_index=703, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=912]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=704, block_index=704, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=932]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=705, block_index=705, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=957]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=706, block_index=706, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=973]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=707, block_index=707, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=991]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=708, block_index=708, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1061]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=709, block_index=709, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1019]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=710, block_index=710, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1050]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=711, block_index=711, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1076]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=712, block_index=712, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1096]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=713, block_index=713, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1137]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=714, block_index=714, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1128]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=715, block_index=715, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1169]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=716, block_index=716, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1207]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=717, block_index=717, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1207]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=718, block_index=718, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1243]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=719, block_index=719, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1200]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=720, block_index=720, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1214]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=721, block_index=721, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1234]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=722, block_index=722, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1291]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=723, block_index=723, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1343]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=724, block_index=724, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1282]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=725, block_index=725, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1288]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=726, block_index=726, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1375]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=727, block_index=727, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1387]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=728, block_index=728, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1377]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=729, block_index=729, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1411]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=730, block_index=730, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1432]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=731, block_index=731, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1426]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=732, block_index=732, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1392]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=733, block_index=733, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1421]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=734, block_index=734, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1432]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=735, block_index=735, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1469]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=736, block_index=736, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1481]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=737, block_index=737, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1492]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=738, block_index=738, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1508]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=739, block_index=739, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1523]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=740, block_index=740, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1547]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=741, block_index=741, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1554]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=742, block_index=742, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1554]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=743, block_index=743, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1588]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=744, block_index=744, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1590]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=745, block_index=745, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1608]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=746, block_index=746, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1648]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=747, block_index=747, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1660]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=748, block_index=748, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1680]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=749, block_index=749, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1693]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=750, block_index=750, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1709]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=751, block_index=751, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1730]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=752, block_index=752, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1764]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=753, block_index=753, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1781]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=754, block_index=754, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1807]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=755, block_index=755, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1829]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=756, block_index=756, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1842]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=757, block_index=757, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1847]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=758, block_index=758, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1855]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=759, block_index=759, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1851]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=760, block_index=760, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1882]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=761, block_index=761, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1897]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=762, block_index=762, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1903]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=763, block_index=763, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1888]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=764, block_index=764, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1903]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=765, block_index=765, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1924]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=766, block_index=766, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1941]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=767, block_index=767, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1954]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=768, block_index=768, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=1963]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=769, block_index=769, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2006]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=770, block_index=770, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2022]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=771, block_index=771, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2036]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=772, block_index=772, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2054]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=773, block_index=773, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2067]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=774, block_index=774, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2072]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=775, block_index=775, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2083]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=776, block_index=776, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2105]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=777, block_index=777, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2130]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=778, block_index=778, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=779, block_index=779, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=780, block_index=780, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=781, block_index=781, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=782, block_index=782, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=783, block_index=783, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=784, block_index=784, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=785, block_index=785, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=786, block_index=786, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=787, block_index=787, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2248]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=788, block_index=788, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=789, block_index=789, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2252]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=790, block_index=790, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2223]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=791, block_index=791, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2260]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=792, block_index=792, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2235]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=793, block_index=793, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2243]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=794, block_index=794, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2161]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=795, block_index=795, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=796, block_index=796, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2141]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=797, block_index=797, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2132]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=798, block_index=798, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2136]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=799, block_index=799, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2129]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=800, block_index=800, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2129]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=801, block_index=801, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2123]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=802, block_index=802, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2124]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=803, block_index=803, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2121]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=804, block_index=804, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2121]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=805, block_index=805, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2143]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=806, block_index=806, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2177]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=807, block_index=807, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2099]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=808, block_index=808, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2182]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=809, block_index=809, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2167]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=810, block_index=810, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2141]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=811, block_index=811, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2118]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=812, block_index=812, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2140]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=813, block_index=813, n_measurements=1
+ [mac_address=0x0001, status="RX_PHY_DEC_FAILED"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=814, block_index=814, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2126]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=815, block_index=815, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2136]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=816, block_index=816, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2151]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=817, block_index=817, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2199]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=818, block_index=818, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=819, block_index=819, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2212]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=820, block_index=820, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=821, block_index=821, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=822, block_index=822, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2231]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=823, block_index=823, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=824, block_index=824, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=825, block_index=825, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=826, block_index=826, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2273]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=827, block_index=827, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2269]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=828, block_index=828, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=829, block_index=829, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=830, block_index=830, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=831, block_index=831, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=832, block_index=832, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=833, block_index=833, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=834, block_index=834, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2328]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=835, block_index=835, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2334]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=836, block_index=836, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2347]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=837, block_index=837, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2357]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=838, block_index=838, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2358]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=839, block_index=839, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2374]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=840, block_index=840, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2386]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=841, block_index=841, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2400]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=842, block_index=842, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=843, block_index=843, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=844, block_index=844, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=845, block_index=845, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=846, block_index=846, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2482]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=847, block_index=847, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2483]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=848, block_index=848, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2497]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=849, block_index=849, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2500]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=850, block_index=850, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2493]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=851, block_index=851, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2503]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=852, block_index=852, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2506]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=853, block_index=853, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2511]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=854, block_index=854, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2513]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=855, block_index=855, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2527]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=856, block_index=856, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2534]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=857, block_index=857, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2550]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=858, block_index=858, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2570]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=859, block_index=859, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2585]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=860, block_index=860, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2601]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=861, block_index=861, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2624]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=862, block_index=862, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2637]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=863, block_index=863, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2650]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=864, block_index=864, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2660]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=865, block_index=865, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2673]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=866, block_index=866, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2688]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=867, block_index=867, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2711]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=868, block_index=868, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2724]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=869, block_index=869, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2740]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=870, block_index=870, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2746]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=871, block_index=871, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2764]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=872, block_index=872, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2779]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=873, block_index=873, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2790]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=874, block_index=874, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2807]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=875, block_index=875, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2829]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=876, block_index=876, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2843]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=877, block_index=877, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2859]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=878, block_index=878, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2869]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=879, block_index=879, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2892]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=880, block_index=880, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2909]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=881, block_index=881, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2917]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=882, block_index=882, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2923]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=883, block_index=883, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2939]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=884, block_index=884, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2949]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=885, block_index=885, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2969]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=886, block_index=886, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=2984]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=887, block_index=887, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=888, block_index=888, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3008]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=889, block_index=889, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3042]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=890, block_index=890, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3060]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=891, block_index=891, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3076]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=892, block_index=892, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3093]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=893, block_index=893, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3101]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=894, block_index=894, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3118]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=895, block_index=895, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3140]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=896, block_index=896, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3146]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=897, block_index=897, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3152]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=898, block_index=898, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=899, block_index=899, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3178]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=900, block_index=900, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3195]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=901, block_index=901, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=902, block_index=902, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=903, block_index=903, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3248]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=904, block_index=904, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3270]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=905, block_index=905, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=906, block_index=906, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3301]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=907, block_index=907, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=908, block_index=908, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3317]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=909, block_index=909, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3331]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=910, block_index=910, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3349]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=911, block_index=911, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=912, block_index=912, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=913, block_index=913, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=914, block_index=914, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=915, block_index=915, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=916, block_index=916, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=917, block_index=917, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=918, block_index=918, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=919, block_index=919, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=920, block_index=920, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=921, block_index=921, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=922, block_index=922, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=923, block_index=923, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3437]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=924, block_index=924, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3435]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=925, block_index=925, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3410]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=926, block_index=926, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3414]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=927, block_index=927, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3395]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=928, block_index=928, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3392]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=929, block_index=929, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3389]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=930, block_index=930, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3412]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=931, block_index=931, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=932, block_index=932, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=933, block_index=933, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=934, block_index=934, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=935, block_index=935, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=936, block_index=936, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=937, block_index=937, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=938, block_index=938, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=939, block_index=939, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=940, block_index=940, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=941, block_index=941, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=942, block_index=942, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=943, block_index=943, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=944, block_index=944, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=945, block_index=945, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=946, block_index=946, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=947, block_index=947, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=948, block_index=948, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=949, block_index=949, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=950, block_index=950, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=951, block_index=951, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=952, block_index=952, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=953, block_index=953, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=954, block_index=954, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=955, block_index=955, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=956, block_index=956, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=957, block_index=957, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=958, block_index=958, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=959, block_index=959, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=960, block_index=960, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=961, block_index=961, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=962, block_index=962, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=963, block_index=963, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=964, block_index=964, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=965, block_index=965, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=966, block_index=966, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=967, block_index=967, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=968, block_index=968, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=969, block_index=969, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=970, block_index=970, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=971, block_index=971, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3312]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=972, block_index=972, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3307]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=973, block_index=973, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3301]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=974, block_index=974, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3307]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=975, block_index=975, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3306]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=976, block_index=976, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=977, block_index=977, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=978, block_index=978, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=979, block_index=979, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=980, block_index=980, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=981, block_index=981, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=982, block_index=982, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=983, block_index=983, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=984, block_index=984, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=985, block_index=985, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=986, block_index=986, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=987, block_index=987, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=988, block_index=988, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=989, block_index=989, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=990, block_index=990, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=991, block_index=991, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=992, block_index=992, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=993, block_index=993, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=994, block_index=994, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=995, block_index=995, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=996, block_index=996, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=997, block_index=997, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=998, block_index=998, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=999, block_index=999, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1000, block_index=1000, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1001, block_index=1001, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1002, block_index=1002, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1003, block_index=1003, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1004, block_index=1004, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1005, block_index=1005, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1006, block_index=1006, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1007, block_index=1007, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1008, block_index=1008, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1009, block_index=1009, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1010, block_index=1010, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1011, block_index=1011, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1012, block_index=1012, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1013, block_index=1013, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1014, block_index=1014, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1015, block_index=1015, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1016, block_index=1016, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1017, block_index=1017, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1018, block_index=1018, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1019, block_index=1019, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1020, block_index=1020, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3290]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1021, block_index=1021, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3280]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1022, block_index=1022, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3284]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1023, block_index=1023, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3268]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1024, block_index=1024, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3251]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1025, block_index=1025, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3233]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1026, block_index=1026, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3212]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1027, block_index=1027, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3211]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1028, block_index=1028, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3210]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1029, block_index=1029, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1030, block_index=1030, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1031, block_index=1031, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3247]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1032, block_index=1032, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3259]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1033, block_index=1033, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3256]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1034, block_index=1034, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3258]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1035, block_index=1035, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1036, block_index=1036, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1037, block_index=1037, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1038, block_index=1038, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1039, block_index=1039, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1040, block_index=1040, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1041, block_index=1041, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1042, block_index=1042, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1043, block_index=1043, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1044, block_index=1044, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1045, block_index=1045, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1046, block_index=1046, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3353]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1047, block_index=1047, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3372]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1048, block_index=1048, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3379]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1049, block_index=1049, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3397]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1050, block_index=1050, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1051, block_index=1051, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1052, block_index=1052, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1053, block_index=1053, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1054, block_index=1054, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1055, block_index=1055, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1056, block_index=1056, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1057, block_index=1057, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3432]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1058, block_index=1058, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1059, block_index=1059, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1060, block_index=1060, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3394]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1061, block_index=1061, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1062, block_index=1062, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3393]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1063, block_index=1063, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3434]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1064, block_index=1064, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3449]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1065, block_index=1065, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1066, block_index=1066, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3461]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1067, block_index=1067, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1068, block_index=1068, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1069, block_index=1069, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1070, block_index=1070, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1071, block_index=1071, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1072, block_index=1072, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1073, block_index=1073, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1074, block_index=1074, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1075, block_index=1075, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1076, block_index=1076, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1077, block_index=1077, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1078, block_index=1078, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3591]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1079, block_index=1079, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3559]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1080, block_index=1080, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1081, block_index=1081, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3542]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1082, block_index=1082, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1083, block_index=1083, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3554]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1084, block_index=1084, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1085, block_index=1085, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1086, block_index=1086, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3545]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1087, block_index=1087, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3560]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1088, block_index=1088, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3542]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1089, block_index=1089, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3541]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1090, block_index=1090, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3555]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1091, block_index=1091, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3564]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1092, block_index=1092, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3568]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1093, block_index=1093, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3559]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1094, block_index=1094, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3565]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1095, block_index=1095, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3562]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1096, block_index=1096, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3568]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1097, block_index=1097, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3577]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1098, block_index=1098, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3591]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1099, block_index=1099, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3591]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1100, block_index=1100, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3599]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1101, block_index=1101, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3601]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1102, block_index=1102, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3602]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1103, block_index=1103, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3608]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1104, block_index=1104, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3615]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1105, block_index=1105, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3621]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1106, block_index=1106, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3641]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1107, block_index=1107, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3637]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1108, block_index=1108, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3641]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1109, block_index=1109, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3650]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1110, block_index=1110, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3662]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1111, block_index=1111, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3698]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1112, block_index=1112, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3697]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1113, block_index=1113, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3720]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1114, block_index=1114, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3734]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1115, block_index=1115, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3749]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1116, block_index=1116, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3757]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1117, block_index=1117, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3777]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1118, block_index=1118, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1119, block_index=1119, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1120, block_index=1120, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1121, block_index=1121, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3802]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1122, block_index=1122, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3807]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1123, block_index=1123, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3822]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1124, block_index=1124, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3817]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1125, block_index=1125, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3809]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1126, block_index=1126, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3806]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1127, block_index=1127, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3812]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1128, block_index=1128, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3822]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1129, block_index=1129, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3825]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1130, block_index=1130, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3834]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1131, block_index=1131, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3839]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1132, block_index=1132, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3845]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1133, block_index=1133, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3858]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1134, block_index=1134, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3868]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1135, block_index=1135, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3884]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1136, block_index=1136, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3901]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1137, block_index=1137, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3915]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1138, block_index=1138, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3921]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1139, block_index=1139, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3940]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1140, block_index=1140, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3955]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1141, block_index=1141, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3969]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1142, block_index=1142, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3982]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1143, block_index=1143, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=3998]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1144, block_index=1144, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4003]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1145, block_index=1145, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4016]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1146, block_index=1146, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4026]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1147, block_index=1147, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4045]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1148, block_index=1148, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4053]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1149, block_index=1149, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1150, block_index=1150, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4101]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1151, block_index=1151, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4114]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1152, block_index=1152, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4106]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1153, block_index=1153, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4121]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1154, block_index=1154, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4134]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1155, block_index=1155, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4152]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1156, block_index=1156, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1157, block_index=1157, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1158, block_index=1158, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1159, block_index=1159, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1160, block_index=1160, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1161, block_index=1161, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1162, block_index=1162, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4219]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1163, block_index=1163, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4222]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1164, block_index=1164, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4238]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1165, block_index=1165, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4232]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1166, block_index=1166, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4228]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1167, block_index=1167, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4231]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1168, block_index=1168, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4235]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1169, block_index=1169, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4250]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1170, block_index=1170, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4248]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1171, block_index=1171, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4257]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1172, block_index=1172, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4272]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1173, block_index=1173, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4286]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1174, block_index=1174, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4293]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1175, block_index=1175, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4301]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1176, block_index=1176, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4303]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1177, block_index=1177, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4309]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1178, block_index=1178, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4324]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1179, block_index=1179, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4335]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1180, block_index=1180, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4344]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1181, block_index=1181, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4354]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1182, block_index=1182, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4363]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1183, block_index=1183, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4377]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1184, block_index=1184, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4391]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1185, block_index=1185, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4409]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1186, block_index=1186, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4423]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1187, block_index=1187, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4429]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1188, block_index=1188, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4434]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1189, block_index=1189, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4447]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1190, block_index=1190, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4462]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1191, block_index=1191, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4480]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1192, block_index=1192, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4493]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1193, block_index=1193, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4507]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1194, block_index=1194, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4518]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1195, block_index=1195, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4530]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1196, block_index=1196, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4539]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1197, block_index=1197, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4545]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1198, block_index=1198, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4549]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1199, block_index=1199, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4569]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1200, block_index=1200, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4575]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1201, block_index=1201, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4584]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1202, block_index=1202, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4610]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1203, block_index=1203, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4623]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1204, block_index=1204, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4635]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1205, block_index=1205, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4650]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1206, block_index=1206, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4651]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1207, block_index=1207, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4675]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1208, block_index=1208, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4689]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1209, block_index=1209, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4704]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1210, block_index=1210, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4705]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1211, block_index=1211, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1212, block_index=1212, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1213, block_index=1213, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4758]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1214, block_index=1214, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1215, block_index=1215, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1216, block_index=1216, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1217, block_index=1217, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4792]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1218, block_index=1218, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1219, block_index=1219, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4813]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1220, block_index=1220, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4822]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1221, block_index=1221, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4829]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1222, block_index=1222, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4832]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1223, block_index=1223, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4836]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1224, block_index=1224, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4849]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1225, block_index=1225, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4869]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1226, block_index=1226, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4875]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1227, block_index=1227, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1228, block_index=1228, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4887]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1229, block_index=1229, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4893]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1230, block_index=1230, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4907]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1231, block_index=1231, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4915]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1232, block_index=1232, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4929]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1233, block_index=1233, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4941]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1234, block_index=1234, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4949]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1235, block_index=1235, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4956]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1236, block_index=1236, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4971]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1237, block_index=1237, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4982]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1238, block_index=1238, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4984]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1239, block_index=1239, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=4998]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1240, block_index=1240, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5005]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1241, block_index=1241, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5022]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1242, block_index=1242, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5038]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1243, block_index=1243, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5035]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1244, block_index=1244, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5040]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1245, block_index=1245, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1246, block_index=1246, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1247, block_index=1247, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5082]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1248, block_index=1248, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5089]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1249, block_index=1249, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5101]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1250, block_index=1250, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5108]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1251, block_index=1251, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5118]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1252, block_index=1252, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5128]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1253, block_index=1253, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5141]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1254, block_index=1254, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5148]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1255, block_index=1255, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5174]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1256, block_index=1256, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5165]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1257, block_index=1257, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5168]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1258, block_index=1258, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5177]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1259, block_index=1259, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1260, block_index=1260, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1261, block_index=1261, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1262, block_index=1262, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1263, block_index=1263, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1264, block_index=1264, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1265, block_index=1265, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5234]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1266, block_index=1266, n_measurements=1
+ [mac_address=0x0001, status="SUCCESS", distance[cm]=5242]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1267, block_index=1267, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1268, block_index=1268, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1269, block_index=1269, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1270, block_index=1270, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1271, block_index=1271, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1272, block_index=1272, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1273, block_index=1273, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1274, block_index=1274, n_measurements=1
+ [mac_address=0x0001, status="RX_PHY_DEC_FAILED"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1275, block_index=1275, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1276, block_index=1276, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1277, block_index=1277, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1278, block_index=1278, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1279, block_index=1279, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1280, block_index=1280, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1281, block_index=1281, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1282, block_index=1282, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1283, block_index=1283, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1284, block_index=1284, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1285, block_index=1285, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1286, block_index=1286, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1287, block_index=1287, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1288, block_index=1288, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1289, block_index=1289, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1290, block_index=1290, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1291, block_index=1291, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1292, block_index=1292, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1293, block_index=1293, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1294, block_index=1294, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1295, block_index=1295, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1296, block_index=1296, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1297, block_index=1297, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1298, block_index=1298, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1299, block_index=1299, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1300, block_index=1300, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1301, block_index=1301, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1302, block_index=1302, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1303, block_index=1303, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1304, block_index=1304, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1305, block_index=1305, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1306, block_index=1306, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1307, block_index=1307, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1308, block_index=1308, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1309, block_index=1309, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1310, block_index=1310, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1311, block_index=1311, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1312, block_index=1312, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1313, block_index=1313, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1314, block_index=1314, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1315, block_index=1315, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1316, block_index=1316, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1317, block_index=1317, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1318, block_index=1318, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1319, block_index=1319, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1320, block_index=1320, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1321, block_index=1321, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1322, block_index=1322, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1323, block_index=1323, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1324, block_index=1324, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1325, block_index=1325, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1326, block_index=1326, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1327, block_index=1327, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1328, block_index=1328, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1329, block_index=1329, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1330, block_index=1330, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1331, block_index=1331, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1332, block_index=1332, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1333, block_index=1333, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1334, block_index=1334, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1335, block_index=1335, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1336, block_index=1336, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1337, block_index=1337, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1338, block_index=1338, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1339, block_index=1339, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1340, block_index=1340, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1341, block_index=1341, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1342, block_index=1342, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1343, block_index=1343, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1344, block_index=1344, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1345, block_index=1345, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1346, block_index=1346, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1347, block_index=1347, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1348, block_index=1348, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1349, block_index=1349, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1350, block_index=1350, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1351, block_index=1351, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1352, block_index=1352, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1353, block_index=1353, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1354, block_index=1354, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1355, block_index=1355, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1356, block_index=1356, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1357, block_index=1357, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1358, block_index=1358, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1359, block_index=1359, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1360, block_index=1360, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1361, block_index=1361, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1362, block_index=1362, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1363, block_index=1363, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1364, block_index=1364, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1365, block_index=1365, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1366, block_index=1366, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1367, block_index=1367, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1368, block_index=1368, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1369, block_index=1369, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1370, block_index=1370, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1371, block_index=1371, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1372, block_index=1372, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1373, block_index=1373, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1374, block_index=1374, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1375, block_index=1375, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1376, block_index=1376, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1377, block_index=1377, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1378, block_index=1378, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1379, block_index=1379, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1380, block_index=1380, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1381, block_index=1381, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1382, block_index=1382, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1383, block_index=1383, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1384, block_index=1384, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1385, block_index=1385, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1386, block_index=1386, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1387, block_index=1387, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1388, block_index=1388, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1389, block_index=1389, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1390, block_index=1390, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1391, block_index=1391, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1392, block_index=1392, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1393, block_index=1393, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1394, block_index=1394, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1395, block_index=1395, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1396, block_index=1396, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1397, block_index=1397, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1398, block_index=1398, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1399, block_index=1399, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1400, block_index=1400, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1401, block_index=1401, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1402, block_index=1402, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1403, block_index=1403, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1404, block_index=1404, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1405, block_index=1405, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1406, block_index=1406, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1407, block_index=1407, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1408, block_index=1408, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1409, block_index=1409, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1410, block_index=1410, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1411, block_index=1411, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1412, block_index=1412, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1413, block_index=1413, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1414, block_index=1414, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1415, block_index=1415, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1416, block_index=1416, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1417, block_index=1417, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1418, block_index=1418, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1419, block_index=1419, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1420, block_index=1420, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1421, block_index=1421, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1422, block_index=1422, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1423, block_index=1423, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1424, block_index=1424, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1425, block_index=1425, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1426, block_index=1426, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1427, block_index=1427, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1428, block_index=1428, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1429, block_index=1429, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1430, block_index=1430, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1431, block_index=1431, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1432, block_index=1432, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1433, block_index=1433, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1434, block_index=1434, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1435, block_index=1435, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1436, block_index=1436, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+SESSION_INFO_NTF: {session_handle=1, sequence_number=1437, block_index=1437, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+stoSESSION_INFO_NTF: {session_handle=1, sequence_number=1438, block_index=1438, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+pSESSION_INFO_NTF: {session_handle=1, sequence_number=1439, block_index=1439, n_measurements=1
+ [mac_address=0x0001, status="RX_TIMEOUT"]}
+
+
+ok

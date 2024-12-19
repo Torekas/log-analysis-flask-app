@@ -1,0 +1,153 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.12.15 12:43:43 =~=~=~=~=~=~=~=~=~=~=~=
+initf 4 2400 200 25 2 42 01:02:03:04:05:06:07:08 1 0 0 1 2JS0153{"F PARAMS":{
+"SLOT, rstu":2400,
+"Ranging Period, ms":200,
+"Ranging round, slots":25,
+"Ranging round usage (Unicast,SS,DS)":2,
+"Session_ID":42,
+"RFRAME":3,
+"SFD ID":2,
+"Multi node mode":1,
+"Round hopping":0,
+"Vupper64":"0102030405060708",
+"Initiator Addr":"0x0000",
+"Responder[0] Addr":"0x0001",
+"Responder[1] Addr":"0x0002"
+}}
+ok
+{"Block":0, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":660}]}
+{"Block":1, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":263,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":707}]}
+{"Block":2, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":263,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":678}]}
+{"Block":3, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":691}]}
+{"Block":4, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":263,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":661}]}
+{"Block":5, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":695}]}
+{"Block":6, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":263,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":686}]}
+{"Block":7, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":262,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":673}]}
+{"Block":8, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":692}]}
+{"Block":9, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":698}]}
+{"Block":10, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":262,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":672}]}
+{"Block":11, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":666}]}
+{"Block":12, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":672}]}
+{"Block":13, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":694}]}
+{"Block":14, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":262,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":673}]}
+{"Block":15, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":689}]}
+{"Block":16, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":262,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":676}]}
+{"Block":17, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":262,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":695}]}
+{"Block":18, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":669}]}
+{"Block":19, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":676}]}
+{"Block":20, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":676}]}
+{"Block":21, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":666}]}
+{"Block":22, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":698}]}
+{"Block":23, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":262,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":678}]}
+{"Block":24, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":697}]}
+{"Block":25, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":262,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":700}]}
+{"Block":26, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":673}]}
+{"Block":27, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":262,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":695}]}
+{"Block":28, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":678}]}
+{"Block":29, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":262,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":703}]}
+{"Block":30, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":500}]}
+{"Block":31, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":599}]}
+{"Block":32, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":584}]}
+{"Block":33, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":262,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":600}]}
+{"Block":34, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":606}]}
+{"Block":35, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":579}]}
+{"Block":36, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":572}]}
+{"Block":37, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":584}]}
+{"Block":38, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":257,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":584}]}
+{"Block":39, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":584}]}
+{"Block":40, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":596}]}
+{"Block":41, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":263,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":597}]}
+{"Block":42, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":262,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":593}]}
+{"Block":43, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":585}]}
+{"Block":44, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":619}]}
+{"Block":45, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":579}]}
+{"Block":46, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":587}]}
+{"Block":47, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":591}]}
+{"Block":48, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":593}]}
+{"Block":49, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":587}]}
+{"Block":50, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":594}]}
+{"Block":51, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":584}]}
+{"Block":52, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":257,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":576}]}
+{"Block":53, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":624}]}
+{"Block":54, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":584}]}
+{"Block":55, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":597}]}
+{"Block":56, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":575}]}
+{"Block":57, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":582}]}
+{"Block":58, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":593}]}
+{"Block":59, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":600}]}
+{"Block":60, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":607}]}
+{"Block":61, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":257,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":579}]}
+{"Block":62, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":599}]}
+{"Block":63, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":590}]}
+{"Block":64, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":584}]}
+{"Block":65, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":596}]}
+{"Block":66, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":584}]}
+{"Block":67, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":257,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":622}]}
+{"Block":68, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":602}]}
+{"Block":69, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":584}]}
+{"Block":70, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":599}]}
+{"Block":71, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":607}]}
+{"Block":72, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":599}]}
+{"Block":73, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":597}]}
+{"Block":74, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":606}]}
+{"Block":75, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":594}]}
+{"Block":76, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":257,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":599}]}
+{"Block":77, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":606}]}
+{"Block":78, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":593}]}
+{"Block":79, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":570}]}
+{"Block":80, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":602}]}
+{"Block":81, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":257,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":584}]}
+{"Block":82, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":581}]}
+{"Block":83, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":591}]}
+{"Block":84, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":597}]}
+{"Block":85, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":584}]}
+{"Block":86, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":610}]}
+{"Block":87, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":593}]}
+{"Block":88, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":573}]}
+{"Block":89, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":625}]}
+{"Block":90, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":602}]}
+{"Block":91, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":604}]}
+{"Block":92, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":602}]}
+{"Block":93, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":564}]}
+{"Block":94, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":602}]}
+{"Block":95, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":590}]}
+{"Block":96, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":597}]}
+{"Block":97, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":597}]}
+{"Block":98, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":593}]}
+{"Block":99, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":600}]}
+{"Block":100, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":564}]}
+{"Block":101, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":615}]}
+{"Block":102, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":593}]}
+{"Block":103, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":616}]}
+{"Block":104, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":587}]}
+{"Block":105, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":587}]}
+{"Block":106, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":584}]}
+{"Block":107, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":600}]}
+{"Block":108, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":602}]}
+{"Block":109, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":619}]}
+{"Block":110, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":587}]}
+{"Block":111, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":582}]}
+{"Block":112, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":610}]}
+{"Block":113, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":257,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":585}]}
+{"Block":114, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":257,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":610}]}
+{"Block":115, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":593}]}
+{"Block":116, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":612}]}
+{"Block":117, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":584}]}
+{"Block":118, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":610}]}
+{"Block":119, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":581}]}
+{"Block":120, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":261,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":612}]}
+{"Block":121, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":596}]}
+{"Block":122, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":600}]}
+{"Block":123, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":588}]}
+{"Block":124, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":257,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":591}]}
+s{"Block":125, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":602}]}
+{"Block":126, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":603}]}
+t{"Block":127, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":610}]}
+{"Block":128, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":610}]}
+o{"Block":129, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":593}]}
+p{"Block":130, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":258,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":622}]}
+{"Block":131, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":260,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":602}]}
+
+ok
+{"Block":132, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Ok","D_cm":259,"LPDoA_deg":0.00,"LAoA_deg":0.00,"LFoM":0,"RAoA_deg":0.00,"CFO_100ppm":602}]}
+{"Session Stopped":"Stop request"}

@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block content %}
+<h1 class="mb-4 text-center">Interactive Half Circle Points</h1>
+
+<!-- Notifications (Bootstrap Toasts) -->
+<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11" id="toastContainer"></div>
+
+<!-- Loading Bar -->
+<div class="progress" id="loadingBar" style="height: 5px; display: none;">
+    <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
+         style="width: 100%;"></div>
+</div>
+
+<!-- Download PDF Button -->
+<div class="d-flex justify-content-center mb-4">
+    <button id="downloadPdfBtn" class="btn btn-success">
+        <i class="bi bi-file-earmark-arrow-down"></i> Save All Analyses to PDF
+    </button>
+</div>
+
+<!-- Half Circle Canvas -->
+<div class="mb-4 text-center">
+    <canvas id="halfCircleCanvas" width="800" height="400"
+            class="border border-secondary rounded bg-white shadow"></canvas>
+</div>
+
+<!-- Analysis Result -->
+<div id="pointData" class="card mx-auto shadow" style="display: none; max-width: 800px;">
+    <div class="card-body">
+        <h2 id="pointTitle" class="card-title h5 text-center"></h2>
+        <pre id="pointDescription" class="card-text text-center"></pre>
+        <img id="chartImage" class="img-fluid rounded d-block mx-auto" alt="Analysis Chart" />
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+<script src="{{ url_for('static', filename='main.js') }}"></script>
+{% endblock %}

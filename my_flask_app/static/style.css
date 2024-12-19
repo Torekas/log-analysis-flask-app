@@ -1,0 +1,22 @@
+body {
+    background: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+#pointData {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    background: #fff;
+}
+
+#pointTitle {
+    margin-bottom: 10px;
+}
+
+canvas {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background: #f9f9f9;
+}

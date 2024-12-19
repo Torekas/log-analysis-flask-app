@@ -1,0 +1,104 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.12.08 15:01:38 =~=~=~=~=~=~=~=~=~=~=~=
+initf 4 2400 200 25 2 42 01:02:03:04:05:06:07:08 1 0 0 1 2JS0153{"F PARAMS":{
+"SLOT, rstu":2400,
+"Ranging Period, ms":200,
+"Ranging round, slots":25,
+"Ranging round usage (Unicast,SS,DS)":2,
+"Session_ID":42,
+"RFRAME":3,
+"SFD ID":2,
+"Multi node mode":1,
+"Round hopping":0,
+"Vupper64":"0102030405060708",
+"Initiator Addr":"0x0000",
+"Responder[0] Addr":"0x0001",
+"Responder[1] Addr":"0x0002"
+}}
+ok
+{"Block":0, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":1, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":2, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":3, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":4, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":5, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":6, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":7, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":8, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":9, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":10, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":11, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":12, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":13, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":14, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":15, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":16, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":17, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":18, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":19, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":20, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":21, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":22, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":23, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":24, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":25, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":26, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":27, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":28, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":29, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":30, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":31, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":32, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":33, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":34, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":35, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":36, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":37, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":38, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":39, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":40, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":41, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":42, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":43, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":44, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":45, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":46, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":47, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":48, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":49, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":50, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":51, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":52, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":53, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":54, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":55, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":56, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":57, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":58, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":59, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":60, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":61, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":62, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":63, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":64, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":65, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":66, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":67, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":68, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":69, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":70, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":71, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":72, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":73, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":74, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":75, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":76, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":77, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+s{"Block":78, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+t{"Block":79, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Block":80, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+o{"Block":81, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+p{"Block":82, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+
+ok
+{"Block":83, "results":[{"Addr":"0x0001","Status":"Err"},{"Addr":"0x0002","Status":"Err"}]}
+{"Session Stopped":"Stop request"}

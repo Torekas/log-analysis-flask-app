@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="text-center">
+    <h1 class="mb-4">No Data Available</h1>
+    <p class="lead">Please <a href="{{ url_for('config') }}">configure</a> the parameters first and run the analysis.</p>
+    <img src="https://via.placeholder.com/400x200?text=No+Data" alt="No Data" class="img-fluid rounded shadow-sm mt-3">
+</div>
+{% endblock %}

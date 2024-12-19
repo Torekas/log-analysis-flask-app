@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block content %}
+<h1 class="mb-4 text-center">Configure Analysis</h1>
+
+<!-- Notifications (Toast Container) -->
+<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11" id="toastContainer"></div>
+
+<!-- Loading Bar -->
+<div id="loadingBarContainer" style="display: none;">
+    <div class="progress" style="height: 5px;">
+        <div class="progress-bar progress-bar-striped progress-bar-animated bg-primary"
+             role="progressbar" style="width: 100%;" id="loadingBar"></div>
+    </div>
+</div>
+
+<!-- Form to Set Parameters -->
+<form id="analysisForm" class="row g-3">
+    <div class="col-md-6">
+        <label for="test_directory" class="form-label">Directory of csv files:</label>
+        <input type="text" class="form-control" id="test_directory" name="test_directory" required>
+    </div>
+    <div class="col-md-6">
+        <label for="specific_value" class="form-label">Specific Value:</label>
+        <input type="text" class="form-control" id="specific_value" name="specific_value" required>
+    </div>
+    <div class="col-md-6">
+        <label for="distance_column" class="form-label">Distance Column:</label>
+        <input type="text" class="form-control" id="distance_column" name="distance_column" required>
+    </div>
+    <div class="col-md-6">
+        <label for="status_column" class="form-label">Status Column:</label>
+        <input type="text" class="form-control" id="status_column" name="status_column" required>
+    </div>
+
+    <div class="col-12 text-center mt-4">
+        <button type="submit" class="btn btn-primary" id="runAnalysisBtn">
+            <i class="bi bi-play-circle"></i> Run Analysis
+        </button>
+    </div>
+</form>
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+<script src="{{ url_for('static', filename='config.js') }}"></script>
+{% endblock %}
