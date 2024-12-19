@@ -113,8 +113,8 @@ class Orchestrator:
         measurements_per_file = []
         for df in df_list:
             vals = df[self.distance_column][
-                df[self.status_column] == self.specific_value
-            ].tolist()
+                df[self.status_column].str.lower() == self.specific_value.lower()
+                ].tolist()
             measurements_per_file.append(vals)
         return measurements_per_file
 

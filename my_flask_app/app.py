@@ -1,10 +1,7 @@
 import io
-import os
 
 import matplotlib
 import textwrap
-import numpy as np
-import pandas as pd
 from flask import (Flask, jsonify, redirect, render_template, request,
                    send_file, url_for)
 from log_processor import run_log_processing
