@@ -1,7 +1,7 @@
 # User Manual for Log Analysis Flask Application  
 
 **Industrial Project - Katarzyna Góźdź, Jan Michalak, Wiktor Zborowski**  
-*Date: Today*
+*Date: 19.12.2024*
 
 ---
 
