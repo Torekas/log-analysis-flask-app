@@ -86,7 +86,7 @@ Activate the virtual environment:
 Install the required Python packages using `pip`:
 
 ```bash
-pip install -r requirements.txt
+pip install -r my_flask_app/requirements.txt
 ```
 
 Ensure that your `requirements.txt` includes:
@@ -183,7 +183,8 @@ http://127.0.0.1:5000
    - **Status Column**: Column name representing statuses (`status` or `Status`).  
 
 3. Submit the form to save the configuration.  
-4. Analysis will run, and you will be redirected to the homepage.  
+4. Analysis will run, and you will be redirected to the homepage.
+5. It is important to analyse only one type of logs (Big, Small or BigSmall) due to missmatch of columns.
 
 ---
 
